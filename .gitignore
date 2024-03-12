@@ -1,6 +1,8 @@
-
 *.FCStd1
 *.stl
 *.mp4
 *.cmd
 *.png
+
+__pycache__/
+.vscode/
